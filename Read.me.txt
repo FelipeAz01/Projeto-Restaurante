@@ -1,0 +1,8 @@
+Links que utilizei
+
+Jquery - https://cdnjs.com/libraries/jquery
+
+Fonts- https://fontawesome.com/search
+       https://cdnjs.com/libraries/font-awesome
+
+Gerar wave:https://www.softr.io/tools/svg-wave-generator
